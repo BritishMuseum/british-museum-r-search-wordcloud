@@ -5,6 +5,8 @@
 
 **OBJECTIVE : Procude a wordcloud of top search terms search on a website using adobe analytics tagging using [RSiteCatalyst](http://randyzwitch.com/rsitecatalyst/) package.**
 
+### :wrench: :gift: [Code](https://github.com/BritishMuseum/RSearchWordCloud/blob/master/AdobeAnalyticsSearchWordCloudExample.R)
+
 Prerequisites : *Download [R](https://www.r-project.org/) and [R studio desktop](https://www.rstudio.com/products/rstudio/download/) to get started.*
 
 
